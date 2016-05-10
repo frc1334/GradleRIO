@@ -47,29 +47,15 @@ public class Robot extends IterativeRobot {
      * This function is called periodically during autonomous
      */
     public void autonomousPeriodic() {
-        switch(autoSelected) {
-            case customAuto:
-                //Put custom auto code here
-                break;
-            case defaultAuto:
-            default:
-                //Put default auto code here
-                break;
-        }
+
+
     }
 
     /**
      * This function is called periodically during operator control
      */
     public void teleopPeriodic() {
-
-    }
-
-    /**
-     * This function is called periodically during test mode
-     */
-    public void testPeriodic() {
-
+    
     }
 
 }

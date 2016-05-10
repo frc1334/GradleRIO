@@ -10,7 +10,7 @@ public class Subsystems {
     /**
      * Usage:
      *
-     * public static <ExampleSubsystem> EXAMPLE_SUBSYSTEM;
+     * public static ExampleSubsystem EXAMPLE_SUBSYSTEM;
      */
     public Subsystems()
     {

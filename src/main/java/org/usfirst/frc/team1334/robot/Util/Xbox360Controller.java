@@ -124,7 +124,7 @@ public class Xbox360Controller extends Joystick {
         return this.getRawButton(9);
     }
 
-    public boolean  getClickRightStick()
+    public boolean getClickRightStick()
     {
         return this.getRawButton(10);
     }

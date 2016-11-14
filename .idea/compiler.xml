@@ -19,8 +19,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="4CimTank_main" target="1.8" />
-      <module name="4CimTank_test" target="1.8" />
+      <module name="GradleRIO_main" target="1.8" />
+      <module name="GradleRIO_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

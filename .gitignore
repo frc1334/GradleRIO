@@ -5,8 +5,10 @@ hs_err_pid*
 *.iml
 .settings
 bin
-build
-.gradle
+.gradle/
+build/
+releases/
+release/gradle/libs/
 
 # Ignore Gradle GUI config
 gradle-app.setting

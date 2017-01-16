@@ -3,8 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/GradleRIO.iml" filepath="$PROJECT_DIR$/.idea/modules/GradleRIO.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GradleRIO_main.iml" filepath="$PROJECT_DIR$/.idea/modules/GradleRIO_main.iml" group="GradleRIO" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GradleRIO_test.iml" filepath="$PROJECT_DIR$/.idea/modules/GradleRIO_test.iml" group="GradleRIO" />
     </modules>
   </component>
 </project>

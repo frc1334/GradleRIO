@@ -23,6 +23,7 @@ def robotManifest = {
 dependencies {
     compile wpilib()
     compile talonSrx()
+	compile fileTree(dir: "libs", include: "*.jar")
 }
 
 jar {
